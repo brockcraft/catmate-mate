@@ -8,3 +8,7 @@
  The M1 terminals of the motorshield are conneted to the hobby motor inside the CateMat C3000 (grey and orange wires).
  
  v1.0 - BRC 5/14/2022
+
+## Pix or it didn't happen ##
+![Image of the wiring.](catmate-setup1.jpg)
+![Image of the build.](catmate-setup2.jpg)
