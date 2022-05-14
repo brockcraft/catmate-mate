@@ -3,7 +3,7 @@
  * The hardware is a standard arduino or compatible with 
  * and Adafruit MotorShield 2.0 board to actuate the Catmate
  * and a DS1307 realtime clock. The DS1307 has a lot of time
- * drift so a chronodot woul dbe a better solution and should
+ * drift so a chronodot would be a better solution and should
  * work as a direct swap for the DS1307
  * 
  * The M1 terminals of the motorshield are conneted to the 
